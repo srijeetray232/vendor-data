@@ -1,50 +1,50 @@
 {
-  "Contoso Ltd.": {
+  "Contoso_Ltd.": {
     "GST": "29ABCDE1234F2Z5",
     "PAN": "ABCDE1234F",
     "Address": "Bangalore, India"
   },
-  "Fabrikam Inc.": {
+  "Fabrikam_Inc.": {
     "GST": "33XYZDE1234L2Z3",
     "PAN": "XYZDE1234L",
     "Address": "Mumbai, India"
   },
-  "Northwind Traders": {
+  "Northwind_Traders": {
     "GST": "22LMNOP5678Q1Z7",
     "PAN": "LMNOP5678Q",
     "Address": "Chennai, India"
   },
-  "Adventure Works": {
+  "Adventure_Works": {
     "GST": "07QRSTU9101V3Z8",
     "PAN": "QRSTU9101V",
     "Address": "Hyderabad, India"
   },
-  "Coho Winery": {
+  "Coho_Winery": {
     "GST": "19FGHIJ2345K6Z2",
     "PAN": "FGHIJ2345K",
     "Address": "Pune, India"
   },
-  "Tailspin Toys": {
+  "Tailspin_Toys": {
     "GST": "18KLMNO6789P4Z1",
     "PAN": "KLMNO6789P",
     "Address": "Ahmedabad, India"
   },
-  "Lucerne Publishing": {
+  "Lucerne_Publishing": {
     "GST": "21UVWXY3456Z7A9",
     "PAN": "UVWXY3456Z",
     "Address": "Kolkata, India"
   },
-  "Wide World Importers": {
+  "Wide_World_Importers": {
     "GST": "15BCDEF7890G1Z4",
     "PAN": "BCDEF7890G",
     "Address": "Surat, India"
   },
-  "Blue Yonder Airlines": {
+  "Blue_Yonder_Airlines": {
     "GST": "23HIJKL4567M8Z5",
     "PAN": "HIJKL4567M",
     "Address": "Chandigarh, India"
   },
-  "Contoso Pharmaceuticals": {
+  "Contoso_Pharmaceuticals": {
     "GST": "20QRSTU1234V5Z6",
     "PAN": "QRSTU1234V",
     "Address": "Nagpur, India"
